@@ -1,6 +1,7 @@
 # minichat :
 Affiche sur les messages enregistrés et dispose d'un formulaire permettant d'en mettre de nouveaux.
 Une fois que le formulaire a été validé, réaffiche la liste des messages les plus récents mis à jour.
+L'utilisateur ne voit qu'une seule page html (minichat.php)
 
 Une base de données doit contenir une table avec 3 champs :
 - ID "sert de clé primaire et permet son auto-incrémentation permet de connaître les messages les plus récents.
